@@ -7,5 +7,5 @@ snake game with javascript
 
 ### LINK GAME
 ```
-https://game-tetris1.netlify.app
+https://game-snake1.netlify.app
 ```

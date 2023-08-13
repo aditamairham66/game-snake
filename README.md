@@ -9,3 +9,8 @@ snake game with javascript
 ```
 https://game-snake1.netlify.app
 ```
+
+# Screenshot
+Here example project:
+
+![screenshot](img/project.png)
